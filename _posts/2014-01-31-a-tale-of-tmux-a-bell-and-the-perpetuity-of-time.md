@@ -3,7 +3,6 @@ layout: post
 title: "A tale of tmux, a bell and the perpetuity of time"
 date: 2014-01-31 14:03
 comments: true
-published: false
 categories: tmux
 ---
 
