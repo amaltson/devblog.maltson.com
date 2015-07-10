@@ -1,12 +1,12 @@
 # Site settings
-title: Random (Tech) Thoughts
+title: Technical Dev Blog
 email: arthur@maltson.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal, mostly non-technical blog of Arthur Maltson. I'll be posting
-  random thoughts about tech, politics, science, culture, and so forth, here.
+  Technical development blog of Arthur Maltson. Covers many topics from Java 
+  to Ruby to DevOps.
 
 logo: /assets/images/jekyll.png
-cover: /assets/images/andromeda.jpg
+cover: /assets/images/code.jpg
 
 name: Arthur Maltson
 author: Arthur Maltson
@@ -15,7 +15,7 @@ author_image: /assets/images/author.jpg
 paginate: 5
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.maltson.com" # the base hostname & protocol for your site
+url: "http://devblog.maltson.com" # the base hostname & protocol for your site
 twitter_username: amaltson
 github_username:  amaltson
 
